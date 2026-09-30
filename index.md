@@ -57,8 +57,17 @@ Early-career **Network & Cybersecurity Administrator** with hands-on experience 
 
 ## 🚀 Projects {#projects}
 
-<details markdown="2">
-<summary><b>Secure Infrastructure for company Codesecure </b></summary>
+<details markdown="1">
+<summary><b>Secure Infrastructure for company Codesecure </b><br>
+<img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Packet Tracer">
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+<img src="https://img.shields.io/badge/Wazuh-005EB8?style=flat-square" alt="Wazuh">
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square" alt="Active Directory">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Nessus-00C1DE?style=flat-square" alt="Nessus">
+<img src="https://img.shields.io/badge/GRC-4B5563?style=flat-square" alt="GRC">
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square" alt="MITRE ATT&CK">
+</summary>
 `Cesae Digital · 01/2026 – 03/2026` · 📂 [Repository](https://github.com/tbastosc/Network-Cybersecurity-Adminitrator-Assessment-Project)
   
 This was part of  Network & Cybersecurity Administrator Assessment Final Project.
@@ -76,10 +85,17 @@ Designed and implemented a segmented, secure IT infrastructure (**defense-in-dep
 
 `Packet Tracer` `pfSense` `Wazuh` `Active Directory` `Linux` `Nessus` `GRC` `MITRE ATT&CK`
 
+---
 </details>
 
 <details markdown="1">
-<summary><b>Threat Hunting - Sentinel & Defender XDR »</b></summary>
+<summary><b>Threat Hunting - Sentinel &amp; Defender XDR »</b><br>
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square" alt="Microsoft Sentinel">
+<img src="https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=flat-square" alt="Azure Log Analytics">
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square" alt="KQL">
+<img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square" alt="Microsoft Defender">
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square" alt="MITRE ATT&CK">
+</summary>
 
 `05/2026 – 08/2026` · 📂 [Repository](https://github.com/tbastosc/sentinel-defender-xdr-threat-hunting) · 📄 [KQL queries](https://github.com/tbastosc/sentinel-defender-xdr-threat-hunting)
 
@@ -92,10 +108,23 @@ Hands-on Azure lab built while preparing for the **SC-200** (Security Operations
 
 `Microsoft Sentinel` `Azure Log Analytics` `KQL` `Microsoft Defender` `MITRE ATT&CK`
 
+---
 </details>
 
 <details markdown="1">
-<summary><b>Security SOC lab - Proxmox server (WIP) »</b></summary>
+<summary><b>Security SOC lab - Proxmox server (WIP) »</b><br>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+<img src="https://img.shields.io/badge/VLANs-4B5563?style=flat-square" alt="VLANs">
+<img src="https://img.shields.io/badge/Twingate-000000?style=flat-square" alt="Twingate">
+<img src="https://img.shields.io/badge/Cloudflare_ZT-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare ZT">
+<img src="https://img.shields.io/badge/Security_Onion-1F2937?style=flat-square" alt="Security Onion">
+<img src="https://img.shields.io/badge/Wazuh-005EB8?style=flat-square" alt="Wazuh">
+<img src="https://img.shields.io/badge/TheHive-F5A623?style=flat-square" alt="TheHive">
+<img src="https://img.shields.io/badge/MISP-2C3E50?style=flat-square" alt="MISP">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</summary>
 
 `05/2026 – Current` · 📂 [Repository (WIP)](https://github.com/tbastosc/proxmox-homelab) · 📄 [Documentation](https://github.com/tbastosc/proxmox-homelab/tree/main/docs)
 
@@ -120,6 +149,7 @@ flowchart LR
 
 `Proxmox` `pfSense` `VLANs` `Twingate` `Cloudflare ZT` `Security Onion` `Wazuh` `TheHive` `MISP` `Kali` `Docker`
 
+---
 </details>
 
 ---
