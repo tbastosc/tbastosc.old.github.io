@@ -85,8 +85,9 @@ Designed and implemented a segmented, secure IT infrastructure (**defense-in-dep
 
 `Packet Tracer` `pfSense` `Wazuh` `Active Directory` `Linux` `Nessus` `GRC` `MITRE ATT&CK`
 
----
 </details>
+
+---
 
 <details markdown="1">
 <summary><b>Threat Hunting - Sentinel &amp; Defender XDR »</b><br>
@@ -108,8 +109,10 @@ Hands-on Azure lab built while preparing for the **SC-200** (Security Operations
 
 `Microsoft Sentinel` `Azure Log Analytics` `KQL` `Microsoft Defender` `MITRE ATT&CK`
 
----
+
 </details>
+
+---
 
 <details markdown="1">
 <summary><b>Security SOC lab - Proxmox server (WIP) »</b><br>
@@ -149,7 +152,6 @@ flowchart LR
 
 `Proxmox` `pfSense` `VLANs` `Twingate` `Cloudflare ZT` `Security Onion` `Wazuh` `TheHive` `MISP` `Kali` `Docker`
 
----
 </details>
 
 ---
