@@ -87,7 +87,7 @@ Designed and implemented a segmented, secure IT infrastructure (**defense-in-dep
 
 </details>
 
-#
+
 
 <details markdown="1">
 <summary><b>Threat Hunting - Sentinel &amp; Defender XDR</b><br>
@@ -112,7 +112,7 @@ Hands-on Azure lab built while preparing for the **SC-200** (Security Operations
 
 </details>
 
-#
+
 
 <details markdown="1">
 <summary><b>Security SOC lab - Proxmox server (WIP)</b><br>
@@ -154,7 +154,7 @@ flowchart LR
 
 </details>
 
-#
+
 
 <details markdown="1">
 <summary><b>Goku-Invaders - Python game »</b><br>
@@ -175,7 +175,7 @@ A modified take on the classic **Space Invaders**, built as the final project of
 
 </details>
 
-#
+
 ---
 
 ## 📝 Write-ups {#writeups}
