@@ -36,7 +36,7 @@ Early-career **Network & Cybersecurity Administrator** with hands-on experience 
 
 ## 🛠️ Skills & Tools {#skills}
 
- Area | Skills / Tools |
+| Area | Skills / Tools |
 |---|---|
 | **SIEM / SOC** | ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square) ![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=flat-square) ![Security Onion](https://img.shields.io/badge/Security_Onion-1F2937?style=flat-square) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Google SecOps](https://img.shields.io/badge/Google_SecOps-4285F4?style=flat-square&logo=google&logoColor=white) |
 | **Detection & Hunting** | ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square) ![YARA-L](https://img.shields.io/badge/YARA--L-4285F4?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-B22222?style=flat-square) ![Sigma rules](https://img.shields.io/badge/Sigma_rules-3D6DB5?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square) ![IOC investigation](https://img.shields.io/badge/IOC_investigation-4B5563?style=flat-square) |
