@@ -12,3 +12,20 @@ details > summary {
 details > summary:hover {
   text-decoration: underline;
 }
+
+/* Espaço entre parágrafos e listas */
+#main_content p,
+#main_content ul,
+#main_content ol {
+  margin-bottom: 1.5em;
+}
+
+/* Espaço entre os projetos (<details>) */
+details {
+  margin-bottom: 1.2em;
+}
+
+/* Mais espaço antes dos títulos de secção */
+#main_content h2 {
+  margin-top: 2em;
+}
