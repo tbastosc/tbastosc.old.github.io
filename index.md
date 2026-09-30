@@ -58,7 +58,7 @@ Early-career **Network & Cybersecurity Administrator** with hands-on experience 
 ## 🚀 Projects {#projects}
 
 <details markdown="1">
-<summary><b>Secure Infrastructure for company Codesecure </b><br>
+<summary><b>Secure Infrastructure for company Codesecure</b><br>
 <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Packet Tracer">
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
 <img src="https://img.shields.io/badge/Wazuh-005EB8?style=flat-square" alt="Wazuh">
@@ -90,7 +90,7 @@ Designed and implemented a segmented, secure IT infrastructure (**defense-in-dep
 ---
 
 <details markdown="1">
-<summary><b>Threat Hunting - Sentinel &amp; Defender XDR »</b><br>
+<summary><b>Threat Hunting - Sentinel &amp; Defender XDR</b><br>
 <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square" alt="Microsoft Sentinel">
 <img src="https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=flat-square" alt="Azure Log Analytics">
 <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square" alt="KQL">
@@ -115,7 +115,7 @@ Hands-on Azure lab built while preparing for the **SC-200** (Security Operations
 ---
 
 <details markdown="1">
-<summary><b>Security SOC lab - Proxmox server (WIP) »</b><br>
+<summary><b>Security SOC lab - Proxmox server (WIP)</b><br>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
 <img src="https://img.shields.io/badge/VLANs-4B5563?style=flat-square" alt="VLANs">
@@ -156,6 +156,27 @@ flowchart LR
 
 ---
 
+<details markdown="1">
+<summary><b>Goku-Invaders - Python game »</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pygame-4B5563?style=flat-square" alt="Pygame">
+</summary>
+
+`Python programming course · Team final project · Dec 2024 - Feb 2025` · 📂 [Repository](https://github.com/tbastosc/Goku-Invaders) 
+
+A modified take on the classic **Space Invaders**, built as the final project of my Python programming course. The player controls **Goku**, who moves vertically and shoots projectiles at incoming enemies to save his beloved **Kika**.
+
+- 🎮 **Gameplay:** vertical movement and projectile shooting against enemy waves
+- 📈 **Level progression:** increasing challenge across levels
+- 📖 **Story:** narrative sequences between levels
+- 🏆 **Scoring:** points system for destroyed enemies
+
+`Python` `Pygame`
+
+</details>
+
+---
+
 ## 📝 Write-ups {#writeups}
 
 📂 **All write-ups:** [github.com/tbastosc/writeups](https://github.com/tbastosc/writeups)
@@ -166,7 +187,7 @@ flowchart LR
 
 | Document | Links |
 |---|---|
-| 📂 **Threat Hunting with KQL** | [PT](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/playbook_threat_hunting_kql.md) · [ENG](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/playbook_threat_hunting_kql_EN.md) |
+| 📂 **Threat Hunting with KQL**  | [PT](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/playbook_threat_hunting_kql.md) · [ENG](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/playbook_threat_hunting_kql_EN.md) |
 | 📂 **Unlocking Machines - CrowdStrike** | [PT](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/runbook_desbloqueio_crowdstrike.md) |
 | 📂 **Phishing Runbook - GSO** | [PT](https://github.com/tbastosc/docs-runbooks-playbooks/blob/main/runbook_phishing.md) |
 
